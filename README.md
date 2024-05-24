@@ -12,6 +12,3 @@ This project is an inspirational message generator that combines profound quotes
   
 ## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
-## License
-This project is licensed under the MIT License.
